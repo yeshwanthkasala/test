@@ -1,14 +1,12 @@
-<<<<<<< HEAD
 this is a test line
 tis will be exected
 nothing to be done
 just practice what 
 this i line
-=======
 this a line one added to sample
 this is a test line
 tis will be exected
 nothing to be done
 just practice what 
 this i line
->>>>>>> e224647e1a6d6ff0222490e02315da7e5847f8a1
+
