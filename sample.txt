@@ -11,3 +11,10 @@ just practice what
 this i line
 this is a text message
 This is one more line added
+<<<<<<< HEAD
+=======
+this a test line for the cherry pic
+this is a test line for cherry pic
+this is one more line
+this is a cherry pic
+>>>>>>> 5899a9a... cherry2
